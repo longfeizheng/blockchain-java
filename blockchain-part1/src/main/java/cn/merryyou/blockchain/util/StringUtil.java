@@ -1,4 +1,4 @@
-package util;
+package cn.merryyou.blockchain.util;
 
 import java.security.MessageDigest;
 

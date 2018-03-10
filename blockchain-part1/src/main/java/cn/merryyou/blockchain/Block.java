@@ -1,4 +1,6 @@
-import util.StringUtil;
+package cn.merryyou.blockchain;
+
+import cn.merryyou.blockchain.util.StringUtil;
 
 import java.util.Date;
 

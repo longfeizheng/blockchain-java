@@ -1,4 +1,6 @@
-import util.JsonUtil;
+package cn.merryyou.blockchain;
+
+import cn.merryyou.blockchain.util.JsonUtil;
 
 import java.util.ArrayList;
 
